@@ -93,12 +93,6 @@ while True:
 
 
 
-#print(f'\nVc digitou a letra {userguess}')
-
-
-
-
-
 
 
 
